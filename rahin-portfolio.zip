@@ -1,0 +1,121 @@
+!doctype html>
+<html lang="bn">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Jihad Hussain Shah Rahin — Actor from Sylhet</title>
+
+  <!-- Basic meta -->
+  <meta name="description" content="Jihad Hussain Shah Rahin — Young actor from Sylhet, Bangladesh. Passionate about acting, drama and short films." />
+  <meta name="author" content="Jihad Hussain Shah Rahin" />
+
+  <!-- Open Graph (social previews) -->
+  <meta property="og:title" content="Jihad Hussain Shah Rahin — Actor" />
+  <meta property="og:description" content="Young actor from Sylhet, Bangladesh. Acting is my heartbeat." />
+  <meta property="og:image" content="FB_IMG_1751213704995.jpg" />
+  <meta property="og:type" content="profile" />
+
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Jihad Hussain Shah Rahin — Actor" />
+  <meta name="twitter:description" content="Young actor from Sylhet, Bangladesh." />
+  <meta name="twitter:image" content="FB_IMG_1751213704995.jpg" />
+
+  <style>
+    :root{--accent:#1f7bd1}
+    body{font-family:Inter,system-ui,Segoe UI,Arial,Helvetica,sans-serif;margin:0;background:#fafafa;color:#111}
+    .container{max-width:820px;margin:40px auto;padding:28px;background:#fff;border-radius:12px;box-shadow:0 6px 28px rgba(0,0,0,0.08)}
+    header{display:flex;gap:18px;align-items:center}
+    img.profile{width:110px;height:110px;border-radius:12px;object-fit:cover}
+    h1{margin:0;font-size:24px}
+    p.lead{margin:6px 0 14px;color:#444}
+    .grid{display:grid;grid-template-columns:1fr 280px;gap:18px}
+    .card{padding:14px;border-radius:10px;background:#f7f9fc}
+    .links a{display:inline-block;margin:6px 6px 0 0;padding:8px 10px;border-radius:8px;background:#fff;border:1px solid #eee;text-decoration:none;color:#111;font-weight:600}
+    footer{margin-top:16px;color:#666;font-size:13px}
+    @media(max-width:760px){.grid{grid-template-columns:1fr;}.profile-slim{display:none}}
+  </style>
+
+  <!-- JSON-LD for search engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Jihad Hussain Shah Rahin",
+    "alternateName": "J.H.S Rahin",
+    "jobTitle": "Actor",
+    "description": "Young actor from Sylhet, Bangladesh. Passionate about acting and storytelling.",
+    "image": "FB_IMG_1751213704995.jpg",
+    "url": "#",
+    "sameAs": [
+      "https://www.youtube.com/@JihadhussainShahRahin-11",
+      "https://www.instagram.com/jihadhussainshahrahin?igsh=M3Y0Nmd2MHRtZTdv",
+      "https://www.tiktok.com/@rahin_shah_?_t=ZS-90JO85DNXCm&_r=1",
+      "https://www.facebook.com/share/1BFBeb8eF4/"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sylhet",
+      "addressCountry": "Bangladesh"
+    }
+  }
+  </script>
+</head>
+<body>
+  <main class="container">
+    <header>
+      <img class="profile" src="FB_IMG_1751213704995.jpg" alt="Jihad Hussain Shah Rahin" />
+      <div>
+        <h1>Jihad Hussain Shah Rahin</h1>
+        <p class="lead">Young actor from Sylhet, Bangladesh 🎭 — Acting isn’t just a hobby; it’s my heartbeat.</p>
+        <div style="margin-top:8px;color:#444">
+          <strong>Known for:</strong> Short films, drama performances, acting videos<br/>
+          <strong>Contact:</strong> <a href="mailto:jihadrahin@gmail.com">jihadrahin@gmail.com</a>
+        </div>
+      </div>
+    </header>
+
+    <section style="margin-top:18px" class="grid">
+      <div>
+        <div class="card">
+          <h3>Biography</h3>
+          <p>Jihad Hussain Shah Rahin is an aspiring actor from Sylhet who loves storytelling and emotional performance. He creates short videos and drama scenes with the goal to work in films and inspire audiences through authentic acting.</p>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h3>Highlights</h3>
+          <ul>
+            <li>Short film & drama performances</li>
+            <li>Active on YouTube, TikTok & Instagram</li>
+            <li>Available for collaborations and auditions</li>
+          </ul>
+        </div>
+      </div>
+
+      <aside class="profile-slim">
+        <div class="card">
+          <h3>Follow</h3>
+          <div class="links">
+            <a href="https://www.youtube.com/@JihadhussainShahRahin-11" target="_blank">YouTube</a>
+            <a href="https://www.instagram.com/jihadhussainshahrahin?igsh=M3Y0Nmd2MHRtZTdv" target="_blank">Instagram</a>
+            <a href="https://www.tiktok.com/@rahin_shah_?_t=ZS-90JO85DNXCm&_r=1" target="_blank">TikTok</a>
+            <a href="https://www.facebook.com/share/1BFBeb8eF4/" target="_blank">Facebook</a>
+          </div>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h3>Press / Work</h3>
+          <p>Links to any interviews, published works or notable roles can go here.</p>
+        </div>
+      </aside>
+    </section>
+
+    <footer>
+      © <span id="year"></span> Jihad Hussain Shah Rahin — Sylhet, Bangladesh.
+    </footer>
+  </main>
+
+  <script>document.getElementById('year').innerText=new Date().getFullYear();</script>
+</body>
+</html>
+
